@@ -1,6 +1,4 @@
-type Board = {
+export type Board = {
   id: number;
   content: string;
 };
-
-export default Board;
